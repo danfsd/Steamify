@@ -11,7 +11,7 @@ Other than a PHP server installed (such as *Xampp, Wampp, Mamp, Lamp stack*), yo
 
 How to Use
 ========
-At this point, all you need to do is import **/src/models/SteamPersona.php** into your project and you are ready to go. 
+At this point, all you need to do is import **/src/models/SteamPersona.php** and **/src/utils/SteamEnums.php** into your project and you are ready to go. 
 
 **Example Code:**
 
