@@ -2,7 +2,6 @@ Steamify
 ========
 This project focus on providing a easy way to get all the information that is relevant about a Steam Profile.
 You can instantiate a Steam Profile (aka **Steam Persona**) passing as attribute the user's SteamId32-bit, SteamId64-bit and SteamId3. All necessary SteamId conversions will be made.
-At the moment this project is focused only in PHP, but I have plans to add code for Java, ASP.NET and Python.
 
 Requirements
 ========
